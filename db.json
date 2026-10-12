@@ -1,0 +1,148 @@
+{
+    "tiles": [
+      {
+        "id": "tile_001",
+        "title": "Ceramic Blue Tile",
+        "description": "Premium ceramic tile with a deep blue glaze finish, great for kitchen backsplashes.",
+        "image": "https://i.ibb.co/qYLjYmDB/Ceramic-blue-tile.png",
+        "category": "ceramic",
+        "price": 45.99,
+        "currency": "USD",
+        "dimensions": "60x60 cm",
+        "material": "Ceramic",
+        "inStock": true
+      },
+      {
+        "id": "tile_002",
+        "title": "Terracotta Clay Tile",
+        "description": "Warm terracotta tile with a matte finish, ideal for rustic courtyards.",
+        "image": "https://i.ibb.co/yn1fFcpF/Terracotta-clay-tile.png",
+        "category": "clay",
+        "price": 32.5,
+        "currency": "USD",
+        "dimensions": "30x30 cm",
+        "material": "Clay",
+        "inStock": true
+      },
+      {
+        "id": "tile_003",
+        "title": "Carrara Marble Tile",
+        "description": "Polished white marble tile with soft grey veining for a timeless look.",
+        "image": "https://i.ibb.co/XZgwGhT1/Carrara-marble-tile.png",
+        "category": "marble",
+        "price": 89.0,
+        "currency": "USD",
+        "dimensions": "60x120 cm",
+        "material": "Marble",
+        "inStock": true
+      },
+      {
+        "id": "tile_004",
+        "title": "Geometric Mosaic Tile",
+        "description": "Hand-cut mosaic tile with a repeating geometric pattern in earthy tones.",
+        "image": "https://i.ibb.co/5XFdpvFt/Geomatric-mosaic-tile.png",
+        "category": "mosaic",
+        "price": 58.25,
+        "currency": "USD",
+        "dimensions": "30x30 cm",
+        "material": "Glass & Stone",
+        "inStock": false
+      },
+      {
+        "id": "tile_005",
+        "title": "Charcoal Slate Tile",
+        "description": "Natural slate tile in deep charcoal, textured for outdoor pathways.",
+        "image": "https://i.ibb.co/JFzRSLxx/Charcoal-slate-tile.png",
+        "category": "stone",
+        "price": 41.75,
+        "currency": "USD",
+        "dimensions": "45x45 cm",
+        "material": "Slate",
+        "inStock": true
+      },
+      {
+        "id": "tile_006",
+        "title": "Sage Green Porcelain",
+        "description": "Soft sage green porcelain tile with a subtle satin sheen.",
+        "image": "https://i.ibb.co/d4L52nQ4/Sage-green-porcelain.png",
+        "category": "porcelain",
+        "price": 52.4,
+        "currency": "USD",
+        "dimensions": "60x60 cm",
+        "material": "Porcelain",
+        "inStock": true
+      },
+      {
+        "id": "tile_007",
+        "title": "Herringbone Oak-Look Tile",
+        "description": "Wood-look porcelain tile laid in a classic herringbone pattern.",
+        "image": "https://i.ibb.co/hFY46WDp/Herringbone-oak-look-tile.png",
+        "category": "porcelain",
+        "price": 63.9,
+        "currency": "USD",
+        "dimensions": "15x60 cm",
+        "material": "Porcelain",
+        "inStock": true
+      },
+      {
+        "id": "tile_008",
+        "title": "Ivory Ceramic Tile",
+        "description": "Clean ivory ceramic tile with a soft matte texture for minimalist interiors.",
+        "image": "https://i.ibb.co/s9gKS8c2/Ivory-ceramic-tile.png",
+        "category": "ceramic",
+        "price": 38.0,
+        "currency": "USD",
+        "dimensions": "60x60 cm",
+        "material": "Ceramic",
+        "inStock": true
+      },
+      {
+        "id": "tile_009",
+        "title": "Emerald Zellige Tile",
+        "description": "Handmade zellige-style tile in emerald green with natural surface variation.",
+        "image": "https://i.ibb.co/1GTHtK6m/Emerald-zellige-tile.png",
+        "category": "ceramic",
+        "price": 74.6,
+        "currency": "USD",
+        "dimensions": "10x10 cm",
+        "material": "Ceramic",
+        "inStock": false
+      },
+      {
+        "id": "tile_010",
+        "title": "Grey Concrete-Look Tile",
+        "description": "Industrial concrete-look tile with a smooth grey finish for modern lofts.",
+        "image": "https://i.ibb.co/vvBTy9gS/Grey-concrete-look-tile.png",
+        "category": "stone",
+        "price": 47.15,
+        "currency": "USD",
+        "dimensions": "60x60 cm",
+        "material": "Porcelain",
+        "inStock": true
+      },
+      {
+        "id": "tile_011",
+        "title": "Golden Onyx Tile",
+        "description": "Luxurious onyx-look tile with warm golden veining and a glossy finish.",
+        "image": "https://i.ibb.co/3YL9NQR2/Golden-onyx-tile.png",
+        "category": "marble",
+        "price": 96.5,
+        "currency": "USD",
+        "dimensions": "60x120 cm",
+        "material": "Marble",
+        "inStock": true
+      },
+      {
+        "id": "tile_012",
+        "title": "Navy Fish-Scale Tile",
+        "description": "Fish-scale shaped tile in navy blue, perfect for feature walls.",
+        "image": "https://i.ibb.co/6JqMHgz6/Navy-fish-scale-tile.png",
+        "category": "ceramic",
+        "price": 55.3,
+        "currency": "USD",
+        "dimensions": "10x12 cm",
+        "material": "Ceramic",
+        "inStock": true
+      }
+    ]
+}
